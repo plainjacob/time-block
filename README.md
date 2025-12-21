@@ -17,7 +17,7 @@ Ever find yourself spending too much time on distracting websites? Timed Tab hel
 
 ## Installation Instruction
 1. Download or clone this repository to your computer
-2. Open chrome and navigate to [](chrome://extensions/)
+2. Open chrome and navigate to [chrome://extensions/](chrome://extensions/)
 3. Enable Developer mode using the toggle in the top right corner
 4. Click Load unpacked and select the project folder
 5. The Timed Tab extension will appear in your toolbar
@@ -28,8 +28,8 @@ Ever find yourself spending too much time on distracting websites? Timed Tab hel
 3. Click Start to begin the countdown
 4. The timer will count down and display the remaining time
 5. When time expires:
-  - An alarm sound will play
-  - The current tab will automatically close
+    - An alarm sound will play
+    - The current tab will automatically close
 6. Click Reset at any time to cancel the timer
 
 ## What I Learned
