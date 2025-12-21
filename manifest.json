@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Time Block",
+  "name": "Timed Tab",
   "description": "Blocks the current tab after a user-defined timer runs out.",
   "version": "1.0",
   "icons": {
